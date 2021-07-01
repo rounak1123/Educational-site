@@ -16,7 +16,7 @@ function App() {
         <Header title="MY todos list " searchbar={false} />
         <div>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="">
               <Todos />
               <Todo />
               <Classes />
