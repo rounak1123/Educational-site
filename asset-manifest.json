@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Educational-site/static/css/main.4b5dc303.chunk.css",
-    "main.js": "/Educational-site/static/js/main.620ac7c9.chunk.js",
-    "main.js.map": "/Educational-site/static/js/main.620ac7c9.chunk.js.map",
+    "main.js": "/Educational-site/static/js/main.11943cee.chunk.js",
+    "main.js.map": "/Educational-site/static/js/main.11943cee.chunk.js.map",
     "runtime-main.js": "/Educational-site/static/js/runtime-main.81919e98.js",
     "runtime-main.js.map": "/Educational-site/static/js/runtime-main.81919e98.js.map",
     "static/css/2.0ccb862f.chunk.css": "/Educational-site/static/css/2.0ccb862f.chunk.css",
-    "static/js/2.0841a1ec.chunk.js": "/Educational-site/static/js/2.0841a1ec.chunk.js",
-    "static/js/2.0841a1ec.chunk.js.map": "/Educational-site/static/js/2.0841a1ec.chunk.js.map",
+    "static/js/2.45966614.chunk.js": "/Educational-site/static/js/2.45966614.chunk.js",
+    "static/js/2.45966614.chunk.js.map": "/Educational-site/static/js/2.45966614.chunk.js.map",
     "static/js/3.b7ec3623.chunk.js": "/Educational-site/static/js/3.b7ec3623.chunk.js",
     "static/js/3.b7ec3623.chunk.js.map": "/Educational-site/static/js/3.b7ec3623.chunk.js.map",
     "index.html": "/Educational-site/index.html",
     "static/css/2.0ccb862f.chunk.css.map": "/Educational-site/static/css/2.0ccb862f.chunk.css.map",
     "static/css/main.4b5dc303.chunk.css.map": "/Educational-site/static/css/main.4b5dc303.chunk.css.map",
-    "static/js/2.0841a1ec.chunk.js.LICENSE.txt": "/Educational-site/static/js/2.0841a1ec.chunk.js.LICENSE.txt"
+    "static/js/2.45966614.chunk.js.LICENSE.txt": "/Educational-site/static/js/2.45966614.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.81919e98.js",
     "static/css/2.0ccb862f.chunk.css",
-    "static/js/2.0841a1ec.chunk.js",
+    "static/js/2.45966614.chunk.js",
     "static/css/main.4b5dc303.chunk.css",
-    "static/js/main.620ac7c9.chunk.js"
+    "static/js/main.11943cee.chunk.js"
   ]
 }
