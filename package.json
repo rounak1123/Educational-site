@@ -1,8 +1,11 @@
 {
   "name": "todos",
+    "homepage": "https://rounak1123.github.io/Educational-site/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
