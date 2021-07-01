@@ -1,0 +1,76 @@
+.slide-container {
+  width: 75%;
+}
+
+h3 {
+  text-align: center;
+}
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 50px;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+}
+
+.each-fade {
+  padding: 12em;
+  padding-top: 0.4em;
+  padding-bottom: 1em;
+  display: flex;
+  height: 350px;
+  width: 70vw;
+  border-radius: 0.5em;
+}
+
+.each-fade .image-container {
+  align-content: center;
+  width: 40em;
+  /* overflow: hidden; */
+}
+
+.each-fade .image-container img {
+  width: 100%;
+  height: 100%;
+}
+
+.each-fade h2 {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background: #f4f7fc;
+}
+
+.btn {
+  background-color: rgb(57, 149, 202);
+  width: 12vw;
+  height: 5vw;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: large;
+  font-weight: 800;
+  border-radius: 0.3em;
+}
+.btn:hover {
+  opacity: 0.8;
+  color: white;
+  transition-duration: 1s;
+}
+.deals {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+  margin-top: 2.5em;
+  text-align: center;
+  font-size: 2.5em;
+}

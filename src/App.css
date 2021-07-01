@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.klk {
+  background-color: #017a7f;
+  color: #e9f1f5;
+  font-family: "Dosis", "sans-serif";
+}

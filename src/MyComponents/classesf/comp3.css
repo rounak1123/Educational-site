@@ -1,0 +1,47 @@
+div .box13 {
+  position: relative;
+  padding-top: 0.5vw;
+  display: inline-block;
+  width: 21vw;
+  height: 56vh;
+  margin: 1vw;
+  background-color: white;
+  border-radius: 0.4rem;
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxes3 {
+  margin-top: 3rem;
+  margin-bottom: 12rem;
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+.head11comp3 {
+  margin-top: 10rem;
+  font-size: 35px;
+  text-align: center;
+  font-weight: 600;
+  font-family: monospace;
+}
+.box13:hover {
+  transform: scale(1.2, 1.2);
+  transition: 0.5s;
+}
+.imgs3 {
+  width: 100%;
+  height: 80%;
+}
+
+.imgcomp3 {
+  padding-top: 0.5em;
+  margin-top: 1rem;
+  height: 24vh;
+}
+.headscomp3 {
+  padding-top: 2vh;
+  text-align: center;
+  margin: 0vh 1vh;
+  font-size: 30px;
+  color: #011c29;
+  align-content: center;
+}

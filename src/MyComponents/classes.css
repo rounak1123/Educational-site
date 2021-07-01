@@ -1,0 +1,63 @@
+.head1 {
+  text-align: center;
+  position: relative;
+  padding-top: 2em;
+  padding-bottom: 0.5em;
+}
+.imgcls1 {
+  width: 40vw;
+  display: inline;
+  position: relative;
+  height: 24rem;
+  padding-left: 5em;
+}
+.imgcls2 {
+  display: inline;
+  padding-left: 2vw;
+  height: 24rem;
+  width: 40vw;
+}
+.btns11,
+.btns12 {
+  color: #f1f1f1;
+  background-color: #17a2b8;
+  font-size: 18px;
+  width: 18rem;
+  margin: 1em 6em;
+  /* height: 3em; */
+  border-radius: 0.6em;
+  padding: 1em;
+}
+.btns11 {
+  margin-left: 15vw;
+  opacity: 0.8;
+}
+.btns12 {
+  margin-left: 7vw;
+  margin-right: 7vw;
+  opacity: 0.8;
+}
+.btns11:hover {
+  transform: scale(1.05, 1.05);
+  transition: 0.3s;
+  opacity: 1;
+}
+.btns12:hover {
+  transform: scale(1.05, 1.05);
+  transition: 0.3s;
+  opacity: 1;
+}
+/* a:hover {
+  color: white;
+}
+a:visited {
+  color: white;
+} */
+.imgcls1:hover {
+  transform: scale(1.1, 1.1);
+  transition: linear 0.4s;
+}
+.imgcls2:hover {
+  transform: scale(1.04, 1.04);
+  transition: linear 0.4s;
+}

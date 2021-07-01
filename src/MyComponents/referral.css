@@ -1,0 +1,28 @@
+.conta11 {
+  margin-top: 5em;
+  text-align: center;
+}
+
+.imgref {
+  height: 68vh;
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btnref {
+  color: #f1f1f1;
+  background-color: #17a2b8;
+  font-size: 18px;
+  width: 18rem;
+  margin: 1em 6em;
+  /* height: 3em; */
+  border-radius: 0.6em;
+  padding: 1em;
+  opacity: 0.8;
+}
+.btnref:hover {
+  opacity: 1;
+}
+
+.imgref:hover {
+  transform: scale(1.1, 1.1);
+  transition: linear 0.4s;
+}
